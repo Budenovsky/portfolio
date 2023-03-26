@@ -125,3 +125,6 @@
 |9.2|проверить jql  |ок | |
 |9.3|только владельцу ЭЦП | | |
 | | | | |
+
+[Предложение по улучшению.](https://github.com/Budenovsky/portfolio/blob/main/improvement_suggestions/improvement_suggestion_1) <br>
+Изменить jql для jobs Напоминание о завершении срока действия сертификата за 2 недели
