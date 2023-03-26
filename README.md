@@ -35,3 +35,7 @@
 *SM: Запрос на развитие*
 + [Пример 3](https://github.com/Budenovsky/portfolio/tree/main/specifications/specification_3) <br> 
 *SM: Дообучение сотрудника*
+
+### Postman:
++ [Пример 1](https://api.postman.com/collections/13669139-5400815f-4a32-45d9-baf4-716ba9d5429e?access_key=PMAT-01GWG04J5YA26EMWN7E3MPCQVM) <br> 
+*Коллекция, созданная в рамках обучения*
