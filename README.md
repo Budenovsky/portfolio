@@ -33,5 +33,5 @@
 SM: Грейдирование
 + [Пример 2](https://github.com/Budenovsky/portfolio/tree/main/specifications/specification_2) <br> 
 SM: Запрос на развитие 
-+ [Пример ](https://github.com/Budenovsky/portfolio/tree/main/specifications/specification_3) <br> 
++ [Пример 3](https://github.com/Budenovsky/portfolio/tree/main/specifications/specification_3) <br> 
 SM: Дообучение сотрудника
