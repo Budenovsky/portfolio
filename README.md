@@ -5,9 +5,9 @@
 + [Пример 2](https://github.com/Budenovsky/portfolio/tree/main/check_lists/check_list%232) <br> 
 *Задача: Создать проект, в нем пока единственный тип запроса: Запрос ЭЦП". Вокрфлоу во вложении*
 + [Пример 3](https://github.com/Budenovsky/portfolio/tree/main/check_lists/check_list%233) <br> 
-*Задача: Создать тип запроса «Отзыв доверенности».*
+*Задача: Создать запрос типа «Отзыв доверенности».*
 + [Пример 4](https://github.com/Budenovsky/portfolio/tree/main/check_lists/check_list%234) <br> 
-*Задача: Настроить автоматизацию отправки уведомлений.*
+*Задача: Настроить автоматизацию отправки комментария-напоминания "Запрос больше трёх дней остается без ответа." в проекте.*
 
 ### Баг-репорты:
 + [Пример 1](https://github.com/Budenovsky/portfolio/tree/main/bug_reports/bug_report_1) <br> 
@@ -30,6 +30,8 @@
 *Изменить название файла при выгрузке результатов на РС "Рейтинг СВ и РГ"*
 ### Документация:
 + [Пример 1](https://github.com/Budenovsky/portfolio/tree/main/specifications/specification_1) <br> 
-Заголовок
+SM: Грейдирование
 + [Пример 2](https://github.com/Budenovsky/portfolio/tree/main/specifications/specification_2) <br> 
-Заголовок
+SM: Запрос на развитие 
++ [Пример ](https://github.com/Budenovsky/portfolio/tree/main/specifications/specification_3) <br> 
+SM: Дообучение сотрудника
