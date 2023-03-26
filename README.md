@@ -30,8 +30,8 @@
 *Изменить название файла при выгрузке результатов на РС "Рейтинг СВ и РГ"*
 ### Документация:
 + [Пример 1](https://github.com/Budenovsky/portfolio/tree/main/specifications/specification_1) <br> 
-SM: Грейдирование
+*SM: Грейдирование*
 + [Пример 2](https://github.com/Budenovsky/portfolio/tree/main/specifications/specification_2) <br> 
-SM: Запрос на развитие 
+*SM: Запрос на развитие*
 + [Пример 3](https://github.com/Budenovsky/portfolio/tree/main/specifications/specification_3) <br> 
-SM: Дообучение сотрудника
+*SM: Дообучение сотрудника*
