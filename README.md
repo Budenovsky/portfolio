@@ -11,23 +11,23 @@
 
 ### Баг-репорты:
 + [Пример 1](https://github.com/Budenovsky/portfolio/tree/main/bug_reports/bug_report_1) <br> 
-Заголовок
+*Поле "Номер доверенности" не очищается при изменении поля "отозвать доверенность" на экране создания запроса типа ОК: Отзыв доверенности.*
 + [Пример 2](https://github.com/Budenovsky/portfolio/tree/main/bug_reports/bug_report_2) <br> 
-Заголовок
+*В рассылке в запросе типа OK: Отзыв доверенности (переход Извещение подготовлено) указывается системный пользователь, если запрос создан из запроса на увольнение сотрудника.*
 + [Пример 3](https://github.com/Budenovsky/portfolio/tree/main/bug_reports/bug_report_3) <br> 
-Заголовок
+*Невозможно создать запрос типа OK: Отзыв доверенности из-за ошибки "Код проекта: Код проекта обязательно." (код проекта отсутствует на экране создания, его быть и не должно).*
 + [Пример 4](https://github.com/Budenovsky/portfolio/tree/main/bug_reports/bug_report_4) <br> 
-Заголовок
+*Некорректное отображение лимитов на экране создания запроса BUY: Запрос на закупку при создании из перехода "требуется закупка" в запросе типа Инициация закупки (проект логистика)*
 + [Пример 5](https://github.com/Budenovsky/portfolio/tree/main/bug_reports/bug_report_5) <br> 
-Заголовок
+*Запрос типа "ОК: Перевод между площадками" невозможно редактировать, т.к. на экране редактирования обязательным для заполнения является скрытое поле "площадка"*
 
 ### Предложения по улучшению:
 + [Пример 1](https://github.com/Budenovsky/portfolio/tree/main/improvement_suggestions/improvement_suggestion_1) <br> 
-Заголовок
+*Изменить jql для jobs "Напоминание о завершении срока действия сертификата за 2 недели"*
 + [Пример 2](https://github.com/Budenovsky/portfolio/tree/main/improvement_suggestions/improvement_suggestion_2) <br> 
-Заголовок
+*Переименовать фильтр на РС "Рейтинг СВ и ОМ" в соответствии с текущим названием должности (ОМ)*
 + [Пример 3](https://github.com/Budenovsky/portfolio/tree/main/improvement_suggestions/improvement_suggestion_3) <br> 
-Заголовок
+*Изменить название файла при выгрузке результатов на РС "Рейтинг СВ и РГ"*
 ### Документация:
 + [Пример 1](https://github.com/Budenovsky/portfolio/tree/main/specifications/specification_1) <br> 
 Заголовок
