@@ -1,7 +1,7 @@
 # API Методы экрана просмотра конкретного рецепта
 
 ## Получение информации о рецепте по его id
-GET {baseURL}/API/users-app/v1/recipes/{recipeId}/
+GET {baseURL}/API/users-app/v1/recipes/{recipeId}
 
 ## Получение комментариев о рецепте по его id
 GET {baseURL}/API/users-app/v1/recipes/{recipeId}/comments
